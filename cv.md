@@ -42,3 +42,12 @@ browserFreezer();
     + Non-oficcial informational centre of Tesla inc. in Uzbekistan.
     + [Source Code](https://github.com/Salokhiddinov/tesla-beta-2)
 ********
+## Education
+* Westminter International University in Tashkent
+    + Business Information Systems
+* [Complete JavaScript](https://www.udemy.com/course/the-complete-javascript-course/) course by Jonas Schmedtmann
+    + Udemy
+* [VueJS](https://www.udemy.com/course/vuejs-2-the-complete-guide/) Course by Maxximillian Schwarzmiller
+    + Udemy
+* [NodeJS, Express and MongoDB](https://www.udemy.com/course/nodejs-express-mongodb-bootcamp/) course by Jonas Schmedtmann
+*********

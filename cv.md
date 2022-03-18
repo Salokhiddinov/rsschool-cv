@@ -33,4 +33,12 @@ function browserFreezer(){
 
 browserFreezer();
 ```
-## 
+********
+## Experience
+* [nOS](nos-beta-2.netlify.app) - Front-end Developer.
+    + Fan-made operational system written on VueJS
+    + [Source Code](https://github.com/Salokhiddinov/nOS-2.0)
+* [Tesla](https://tesla11256.netlify.app) - Front-end Developer.
+    + Non-oficcial informational centre of Tesla inc. in Uzbekistan.
+    + [Source Code](https://github.com/Salokhiddinov/tesla-beta-2)
+********

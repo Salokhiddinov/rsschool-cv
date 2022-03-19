@@ -65,3 +65,46 @@ h1{
 .about p{
     text-align: center;
 }
+
+.contacts{
+    margin: 7rem 0;
+}
+
+h2{
+    text-align: center;
+}
+.contacts-list{
+    display: flex;
+    justify-content: space-around;
+}
+
+.contacts-list div{
+    margin: auto;
+    margin: 2rem 0;
+}
+.icon{
+    display: block;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.skills-list{
+    display: flex;
+    justify-content: space-between;
+    margin: 5rem 0;
+    text-align: center;
+}
+.code{
+    margin: 5rem;
+}
+.code .wrapper p{
+    text-align: center;
+}
+
+pre{
+    margin: auto;
+    width: 50%;
+    padding: 2rem;
+    background-color: rgb(46, 46, 46);
+    color: white;
+}

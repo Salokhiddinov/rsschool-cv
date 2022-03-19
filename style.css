@@ -1,0 +1,148 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,400;0,700;1,300&display=swap');
+
+html{
+    scroll-behavior: smooth;
+}
+
+*{
+    font-family: 'Raleway', sans-serif;
+}
+
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: #E7E7E7;
+}
+.wrapper{
+    width: 70%;
+    margin: auto;
+}
+
+
+header{
+    display: flex;
+    justify-content: space-between;
+    color: white;
+    background-color: #1A1A1A;
+    padding: 1rem 2rem;
+}
+
+ul{
+    display: flex;
+    list-style: none;
+}
+li{
+    padding-left: 2rem;
+}
+a{
+    display: inline-block;
+    text-decoration: none;
+    color: white;
+}
+nav ul a{
+    transition: 0.1s all;
+
+}
+
+nav ul a:hover{
+    transform: scale(1.2);
+    
+}
+.header-name{
+    padding: 1rem 0;
+    font-weight: 700;
+}
+
+.photo{
+    display: block;
+    border-radius: 20rem;
+    width: 30%;
+    margin: 3rem auto;
+    box-shadow: 5px 5px  10px rgba(0, 0, 0, 0.555);
+}
+
+h1{
+    font-size: 2rem;
+    text-align: center;
+    font-weight: 700;
+
+}
+.about{
+    margin: auto;
+}
+.about p{
+    text-align: center;
+}
+
+.contacts{
+    margin: 7rem 0;
+}
+
+h2{
+    text-align: center;
+}
+.contacts-list{
+    display: flex;
+    justify-content: space-around;
+}
+
+.contacts-list div{
+    margin: auto;
+    margin: 2rem 0;
+}
+.icon{
+    display: block;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.skills-list{
+    display: flex;
+    justify-content: space-between;
+    margin: 5rem 0;
+    text-align: center;
+}
+.skill-item{
+    width: 20%;
+    padding: 1rem;
+    transition: 0.2s all;
+}
+.skill-item:hover{
+    transform: scale(1.05);
+    box-shadow: 5px 5px  10px rgba(0, 0, 0, 0.555);
+}
+.code{
+    margin: 5rem;
+}
+.code .wrapper p{
+    text-align: center;
+}
+
+pre{
+    margin: auto;
+    padding: 2rem;
+    background-color: rgb(46, 46, 46);
+    color: white;
+    transition: 0.2s all;
+}
+.code-example{
+    transition: 0.2s all;
+}
+.code-example:hover{
+    transform: scale(1.05);
+    box-shadow: 5px 5px  10px rgba(0, 0, 0, 0.555);
+}
+
+.course{
+    padding: 2rem;
+    margin: 1rem 0;
+    transition: 0.2s all;
+}
+.course:hover{
+    transform: scale(1.05);
+    box-shadow: 5px 5px  10px rgba(0, 0, 0, 0.555);
+}
+.course a{
+    color: black !important;
+}
